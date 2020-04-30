@@ -3,5 +3,5 @@
 
 The data is from https://www.kaggle.com/karthickveerakumar/spam-filter
 
-To compile:  `g++ naiveBayes.cpp Trie.cpp`
+To compile:  `g++ naiveBayes.cpp Trie.cpp`\
 To run: `./a.out`
